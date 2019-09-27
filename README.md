@@ -6,3 +6,5 @@ This is sample file
 
 ##Link example
 [I'm an inline-style link]https://www.google.com)
+Git Tutorial (/git.md)
+
