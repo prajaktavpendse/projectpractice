@@ -26,3 +26,8 @@ function add(num1,num2){
 
 	<Image>
 	![Markdown Image](https://markdown-here.com/img/icon256.png)
+
+	Horizontal Rule
+
+	-----
+	-----
