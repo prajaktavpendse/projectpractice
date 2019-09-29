@@ -10,7 +10,7 @@
   ![New Repository option in Github](https://www.softpost.org/wp-content/uploads/2016/06/new-repository-on-GitHub.png)
   * There will be two types of repositories:1.Public 2.Private. Usually we create *Public* repository as it will be accessible easily.
 
-  ```Quiz
+  ```diff
   +This line is green
   -This line is actually Red
   +Again Green
