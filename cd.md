@@ -41,3 +41,8 @@ What command do you have to use to go to the parent directory?
 
 ```
 
+Quick Info:
+
+|   Command     |   Use                            |
+___________________________________________________
+|    cd         |  Change Directory                |
