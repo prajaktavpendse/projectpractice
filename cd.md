@@ -2,7 +2,7 @@
 
 > What is it?
 
-##### **'cd'** is one of the most common and basic command used on Linux.The primary purpose of the command is to alter the current directory. In simple words, its primary goal is to shift users to a new location in the file system. **'cd'** is also known as "Change Directory".
+##### --->**'cd'** is one of the most common and basic command used on Linux.The primary purpose of the command is to alter the current directory. In simple words, its primary goal is to shift users to a new location in the file system. **'cd'** is also known as "Change Directory".
 ---------------------------------------------------------------------------------------------------------------
 
 > Why do we use 'cd' command?
