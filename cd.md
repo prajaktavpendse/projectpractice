@@ -14,10 +14,10 @@
 >How can you run a cd command in linux terminal?
 
 ##### 1.To return to the home directory immediately, use cd ~ OR cd.
-1.To change into the root directory of Linux file system, use cd / .
-1.To go into the root user directory, run cd /root/ as root user.
-1.To navigate up one directory level up, use cd ..
-1.To go back to the previous directory, use cd -
+##### 1.To change into the root directory of Linux file system, use cd / .
+##### 1.To go into the root user directory, run cd /root/ as root user.
+##### 1.To navigate up one directory level up, use cd ..
+##### 1.To go back to the previous directory, use cd -
 ----------------------------------------------------------------------------------------------------------------
 
 >How can you use **cd** command on Linux?
