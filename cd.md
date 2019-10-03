@@ -1,4 +1,4 @@
- __***'cd' command***__
+# ***'cd' command***
 
 > What is it?
 
@@ -30,4 +30,14 @@ Please refer below image as an example of use of cd command:
 
 ![Example of use of cd command](https://media.geeksforgeeks.org/wp-content/uploads/cd6-2.png)
 
+------------------------------------------------------------------------------------------------------------------
+```diff
+What command do you have to use to go to the parent directory?
+
+- cd-
+- cd~
++ cd ..
+- cd/up
+
+```
 
