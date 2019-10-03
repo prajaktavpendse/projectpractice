@@ -11,7 +11,7 @@
 ---------------------------------------------------------------------------------------------------------------
 
 
-> ##How can you run a cd command in linux terminal?##
+##> How can you run a cd command in linux terminal?##
 
  1.To return to the home directory immediately, use cd ~ OR cd.
  2.To change into the root directory of Linux file system, use cd / .
@@ -22,7 +22,7 @@
 
 > ##How can you use **cd** command on Linux?##
 
-#####In case user wants to move to a filesystem then he can hit the following command:
+##### In case user wants to move to a filesystem then he can hit the following command:
 
 `cd /usr/local/doc`
 
