@@ -1,15 +1,24 @@
-This is pwd command help file
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+#  ___***          pwd command            ***___
 
-Alternatively, for H1 and H2, an underline-ish style:
+### Table of contents
+----------------------------------------------------------
 
-Alt-H1
-======
+*What is the pwd command in Linux?
+*How to print the current working directory
+*Example of pwd command in Linux
 
-Alt-H2
-------
+---------------------------------------------------------
+
+
+> What is pwd command in Linux ?
+
+##### 'pwd' stands for  'Print Working Directory' .This is a command line utility for printing the current working directory.
+
+>How to print the current working directory?
+##### To print the current working directory type pwd command and hit enter.The path of the current working directory will be printed to standard output. 
+
+See below example:
+`pwd /desktop/project`
+
+##### This says ,we are currently working in the 'Project' directory which is on desktop.
+
