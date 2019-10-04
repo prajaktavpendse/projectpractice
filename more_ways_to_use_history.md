@@ -1,3 +1,6 @@
+
+# More ways to use history command
+
 If you wish to view the history one page at a time, you can use the command below
 
 >history | less
