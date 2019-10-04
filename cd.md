@@ -42,4 +42,7 @@ What command do you have to use to go to the parent directory?
 ```
 Reference:
 [1]. https://en.wikipedia.org/wiki/Cd_(command)
+
 [2]. https://www.geeksforgeeks.org/cd-command-in-linux-with-examples/
+
+>!This is spoiler
