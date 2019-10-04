@@ -1,4 +1,4 @@
-#   'pwd' command            
+(!https://github.com/prajaktavpendse/projectpractice/blob/master/Images/pwdcommand.PNG)            
 
 ### Table of contents
 ---------------------------------------------------------------
