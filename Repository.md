@@ -8,11 +8,12 @@
   * Once you create your account you will login and see *New Repository* option there.
   Here is screenshot for your reference:
   ![New Repository option in Github](https://www.softpost.org/wp-content/uploads/2016/06/new-repository-on-GitHub.png)
-  * There will be two types of repositories:1.Public 2.Private. Usually we create *Public* repository as it will be accessible easily.
-
-  ```diff
+  * There will be two types of repositories:1.Public 2.Private. Usually we create *Public* repository as it will be accessible easily.  ```diff
   +This line is green
   -This line is actually Red
   +Again Green
   +This is blue
   ```
+  
+
+  
