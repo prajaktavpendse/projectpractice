@@ -1,4 +1,4 @@
-(!https://github.com/prajaktavpendse/projectpractice/blob/master/Images/pwdcommand.PNG)            
+!(https://github.com/prajaktavpendse/projectpractice/blob/master/Images/pwdcommand.PNG)            
 
 ### Table of contents
 ---------------------------------------------------------------
