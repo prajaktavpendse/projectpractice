@@ -1,4 +1,4 @@
-####>Q.2 How does history command work?
+####Q.2 How does history command work?
 
 Usage of history command is simple- just execute the 'history' command
 ![History command](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/history.PNG)
