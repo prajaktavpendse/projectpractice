@@ -3,7 +3,7 @@
 ### Table of contents
 ---------------------------------------------------------------
 
-##### 1. What is the pwd command in Linux?
+##### 1. What is the pwd command in Linux? [Click here to get answer](https://github.com/prajaktavpendse/projectpractice/blob/master/pwd1.md)
 ##### 2. How to print the current working directory
 ##### 3. Example of pwd command in Linux
 
@@ -32,6 +32,6 @@ Click Here for an image:
 ---------------------------------------------------------------------
 
 What is full form of pwd? 
-|| Print working directory ||
+||Print working directory||
 
 
