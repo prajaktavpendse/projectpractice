@@ -4,8 +4,8 @@
 ---------------------------------------------------------------
 
 ##### 1. [What is pwd command in Linux?](https://github.com/prajaktavpendse/projectpractice/blob/master/pwd1.md)
-##### 2. How to print the current working directory
-##### 3. Example of pwd command in Linux
+##### 2. [How to print the current working directory?](https://github.com/prajaktavpendse/projectpractice/blob/master/pwd2.md)
+##### 3. [Example of pwd command in Linux](https://github.com/prajaktavpendse/projectpractice/blob/master/pwdimg.md)
 
 ----------------------------------------------------------------
 
