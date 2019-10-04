@@ -1,4 +1,4 @@
->Q.7 How to run the previous command?
+####>Q.7 How to run the previous command?
 There are two easy ways to run previous command.
 1. Press Ctrl +P
 2. OR you can run below command on command prompt:

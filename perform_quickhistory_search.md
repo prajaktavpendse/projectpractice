@@ -1,4 +1,4 @@
->Q.6 How to perform quick history search?
+####>Q.6 How to perform quick history search?
 You can perform quick history search by *'reverse-i-search'* method.This method is quite easy.
 
 Steps to be followed for quick search:
