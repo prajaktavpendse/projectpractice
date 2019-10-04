@@ -27,3 +27,6 @@ See below example:
 Please see below image as an example:
 [Click here](https://media.geeksforgeeks.org/wp-content/uploads/cd6-2.png)
 
+Click Here for an image:
+(https://github.com/prajaktavpendse/projectpractice/blob/master/Images/pwd.PNG)
+
