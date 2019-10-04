@@ -31,7 +31,6 @@ Click Here for an image:
 
 ---------------------------------------------------------------------
 
-What is full form of pwd? 
-||Print working directory||
+[[download]] 
 
 
