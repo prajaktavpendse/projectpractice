@@ -2,17 +2,19 @@
 
 ==========================================================================
 
-Table of Contents:
-1. Linux history command
-2. How does history command work?
-3. How to make history display date and time as well?
-4. How to make history stop recording commands?
-5. How to make history not record a single command?
-6. How to perform quick history search?
-7. How to run the previous command?
-8. How to make history ignore duplicate entries in output?
-9. How to clear history?
+## Table of Contents:
+##### 1. [Linux history command](https://github.com/prajaktavpendse/projectpractice/blob/master/history_command.md)
+##### 2. [How does history command work?](https://github.com/prajaktavpendse/projectpractice/blob/master/historywork.md)
+##### 3. [How to make history display date and time as well?](https://github.com/prajaktavpendse/projectpractice/blob/master/historydatetime.md)
+##### 4. [How to make history stop recording commands?](https://github.com/prajaktavpendse/projectpractice/blob/master/historystoprecording.md)
+##### 5. [How to make history not record a single command?](https://github.com/prajaktavpendse/projectpractice/blob/master/historyignore.md)
+##### 6. [How to perform quick history search?](https://github.com/prajaktavpendse/projectpractice/blob/master/perform_quickhistory_search.md)
+##### 7. [How to run the previous command?](https://github.com/prajaktavpendse/projectpractice/blob/master/run_previous_command.md)
+##### 8. [How to make history ignore duplicate entries in output?](https://github.com/prajaktavpendse/projectpractice/blob/master/ignore_duplicate_entries_in_output.md)
+##### 9. [How to clear history?](https://github.com/prajaktavpendse/projectpractice/blob/master/how_to_clear_history_.md)
 ![*Wanna know more about history command!*](https://linux.die.net/man/3/history)
+
+---------------------------------------------------------------------------
 
 
 
@@ -77,4 +79,4 @@ This can be done by setting HISTCONTROL variable to 'ignoreboth' and 'erasedups'
 Existing history can be cleare by following way:
 >history -c
 
-![Wanna know more about 'history' command?]||(https://linux.die.net/man/3/history)||
+
