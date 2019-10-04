@@ -1,4 +1,4 @@
-___     pwd command            ___
+#   'pwd' command            
 
 ### Table of contents
 ---------------------------------------------------------------
@@ -24,9 +24,14 @@ See below example:
 ##### This says ,we are currently working in the 'Project' directory which is on desktop.
 ------------------------------------------------------------------
 
-Please see below image as an example:
-[Click here](https://media.geeksforgeeks.org/wp-content/uploads/cd6-2.png)
+>Example of pwd command in linux
 
 Click Here for an image:
 (https://github.com/prajaktavpendse/projectpractice/blob/master/Images/pwd.PNG)
+
+---------------------------------------------------------------------
+
+What is full form of pwd? 
+|| Print working directory ||
+
 
