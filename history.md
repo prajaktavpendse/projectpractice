@@ -12,9 +12,14 @@
 ##### 7. [How to run the previous command?](https://github.com/prajaktavpendse/projectpractice/blob/master/run_previous_command.md)
 ##### 8. [How to make history ignore duplicate entries in output?](https://github.com/prajaktavpendse/projectpractice/blob/master/ignore_duplicate_entries_in_output.md)
 ##### 9. [How to clear history?](https://github.com/prajaktavpendse/projectpractice/blob/master/how_to_clear_history_.md)
-![*Wanna know more about history command!*](https://linux.die.net/man/3/history)
+##### 10.[More ways to use history command](https://github.com/prajaktavpendse/projectpractice/blob/master/more_ways_to_use_history.md)
+![Wanna know more about history command!](https://linux.die.net/man/3/history)
 
 ---------------------------------------------------------------------------
+
+*References*
+
+1. https://www.howtoforge.com/linux-history-command/#q-how-does-history-command-work
 
 
 
