@@ -14,6 +14,8 @@ By no means are these branches “special” from a technical perspective. The b
 
 # 1. Feature branches
 
+![Feature branching diagram](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/Feature_branches.PNG)
+
 May branch off from:
 develop
 
