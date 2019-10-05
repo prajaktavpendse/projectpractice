@@ -9,21 +9,21 @@ Tables of contents
 
     *[Main branches](https://github.com/prajaktavpendse/projectpractice/blob/master/main_branches.md)
 
-        * Master
-        
-        * Develop
+        - Master
 
-    *Supporting branches(https://github.com/prajaktavpendse/projectpractice/blob/master/supporting_branches.md)
+        - Develop
 
-        * Feature branches
+    *[Supporting branches](https://github.com/prajaktavpendse/projectpractice/blob/master/supporting_branches.md)
 
-        * Release branches
+        - Feature branches
 
-        * Hotfix branches
+        - Release branches
 
-* Branching detail workflow diagram(https://github.com/prajaktavpendse/projectpractice/blob/master/detail_branching_diagram.md)
+        - Hotfix branches
 
-* Reference(https://github.com/prajaktavpendse/projectpractice/blob/master/reference_branches.md)
+* [Branching detail workflow diagram](https://github.com/prajaktavpendse/projectpractice/blob/master/detail_branching_diagram.md)
+
+* [Reference](https://github.com/prajaktavpendse/projectpractice/blob/master/reference_branches.md)
 
 --------------------------------------------------------------------------------------------------------          
 
