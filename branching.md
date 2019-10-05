@@ -4,16 +4,17 @@ Tables of contents
 * [What is git 'Branching' ?](https://github.com/prajaktavpendse/projectpractice/blob/master/what_is_branching.md)
 
 * Branching workflow
+
     *[Decentralize but centralize](https://github.com/prajaktavpendse/projectpractice/blob/master/decentralize_but_centralize.md)
 
     *[Main branches](https://github.com/prajaktavpendse/projectpractice/blob/master/main_branches.md)
-        1. Master
-        2. Develop
+        * Master
+        * Develop
 
     *Supporting branches(https://github.com/prajaktavpendse/projectpractice/blob/master/supporting_branches.md)
-        1. Feature branches
-        2. Release branches
-        3. Hotfix branches
+        * Feature branches
+        * Release branches
+        * Hotfix branches
 
 * Branching detail workflow diagram(https://github.com/prajaktavpendse/projectpractice/blob/master/detail_branching_diagram.md)
 
