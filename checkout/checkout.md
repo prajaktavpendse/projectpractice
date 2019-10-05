@@ -3,19 +3,19 @@
 
 ## Table of contents:
 
-* Git checkout
+* [Git checkout](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/git_checkout.md)
 
-* Checking out branch
+* [Checking out branch](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/checking_out_branch.md)
 
-* Difference between 'git clone' and 'git cheeckout'
+* [Difference between 'git clone' and 'git cheeckout'](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/cloning_checkout.md)
 
-* What is 'git checkout -b <new-branch>' ?
+* [What is 'git checkout -b <new-branch>' ?](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/checkout-b.md)
 
-* What is 'git checkout -b <new-branch><existing-branch>' ?
+* [What is 'git checkout -b <new-branch><existing-branch>' ?](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/checkout-b1.md)
 
-* Git checkout a Remote branch
+* [Git checkout a Remote branch](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/remote_checkout.md)
 
-* Reference
+* [Reference](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/reference_checkout.md)
 
 
 
