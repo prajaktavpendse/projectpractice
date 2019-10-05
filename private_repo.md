@@ -11,13 +11,13 @@ If you change a repository's visibility from internal to private, forks that bel
 1. On GitHub, navigate to the main page of the repository.
 
 2. Under your repository name, click Settings .
-   ![See where setting option is-]()
+   ![See where setting option is-](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/Repository_setting_menu.PNG)
 
 3. Under "Danger Zone", next to "Make this repository private", click Make private.
-   ![here is screenshot for reference-]()
+   ![here is screenshot for reference-](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/Repository_setting_menu_2.PNG)
 
 4. Read the warnings about making a repository private.
-   ![warnings will look like this]()
+   ![warnings will look like this](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/Private_repo_warning_4.PNG)
 
 5. Type the name of the repository that you want to make private,for example 
    `accountname/reponame`.
