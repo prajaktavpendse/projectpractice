@@ -9,9 +9,9 @@
 
 * [Difference between 'git clone' and 'git cheeckout'](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/cloning_checkout.md)
 
-* [What is 'git checkout -b <new-branch>' ?](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/checkout-b.md)
+* [What is 'git checkout -b new-branch' ?](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/checkout-b.md)
 
-* [What is 'git checkout -b <new-branch><existing-branch>' ?](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/checkout-b1.md)
+* [What is 'git checkout -b new-branch and existing-branch' ?](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/checkout-b1.md)
 
 * [Git checkout a Remote branch](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/remote_checkout.md)
 
