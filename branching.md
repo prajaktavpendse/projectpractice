@@ -1,14 +1,48 @@
-#  Git Branching
+#                                Git Branching
+
+Tables of contents
+* What is git 'Branching' ?
+
+* Branching workflow
+    *Decentralize but centralize
+
+    *Main branches
+        1. Master
+        2. Develop
+
+    *Supporting branches
+        1. Feature branches
+        2. Release branches
+        3. Hotfix branches
+
+* Branching detail workflow diagram
+
+* Reference           
 
 #What is git branching?
 
-A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master. As you initially make commits, you’re given a master branch that points to the last commit you made. Every time you commit, it moves forward automatically.
+A **branch** in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master. As you initially make commits, you’re given a master branch that points to the last commit you made. Every time you commit, it moves forward automatically.
 
 What happens if you create a new branch? Well, doing so creates a new pointer for you to move around. Let’s say you create a new branch called testing. You do this with the `git branch` command:
 
 `$ git branch testing`
 
 ****Branching Workflow****
+
+# Decentralize but centralize
+
+Don't get confuse by title.Let me explaain you how it works.It's pretty easy!
+
+![Centralize Branching](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/Centralized_branch.PNG)
+
+Repository setup that works well with this branching is something called "Centralized Repository".It is popularly known as "Origin" among git users.
+
+
+As shown in the diagram, developer can pulls and pushes to origin. Apart from these centralize push-pull relationships developers can also pull changes from other peers to form sub-teams.
+
+For example, In above figure ,two or more developers are working on same feature under one big project.Before pushing permanent changes to Origin developers can share their repositories among themselves.This way developers can work together and once code is ready for release ,they can push it to the origin.
+
+Hence collaborative work needs *Branches*.
 
 
 # The main branches 
@@ -19,8 +53,8 @@ What happens if you create a new branch? Well, doing so creates a new pointer fo
 
 The central repo holds two main branches with an infinite lifetime:     
                                                                           
-# 1. master                                                                  
-# 2. develop                                                                
+*1. master*                                                              
+*2. develop*                                                                
                                                                           
 The **master branch** at origin should be familiar to every Git user.Parallel to the master branch, another branch exists called **develop**.    
                                                                           
@@ -87,4 +121,10 @@ hotfix-*
 
 Hotfix branch arise from the necessity to act immediately upon an undesired state of a live production version. When a critical bug in a production version must be resolved immediately, a hotfix branch may be branched off from the corresponding tag on the master branch that marks the production version.
 
-The essence is that work of team members (on the develop branch) can continue, while another person is preparing a quick production fix.                      
+The essence is that work of team members (on the develop branch) can continue, while another person is preparing a quick production fix.      
+
+Reference :
+1. https://nvie.com/posts/a-successful-git-branching-model/
+
+2. https://en.wikipedia.org/wiki/Branching_(version_control)
+
