@@ -8,12 +8,17 @@ Tables of contents
     *[Decentralize but centralize](https://github.com/prajaktavpendse/projectpractice/blob/master/decentralize_but_centralize.md)
 
     *[Main branches](https://github.com/prajaktavpendse/projectpractice/blob/master/main_branches.md)
+
         * Master
+        
         * Develop
 
     *Supporting branches(https://github.com/prajaktavpendse/projectpractice/blob/master/supporting_branches.md)
+
         * Feature branches
+
         * Release branches
+
         * Hotfix branches
 
 * Branching detail workflow diagram(https://github.com/prajaktavpendse/projectpractice/blob/master/detail_branching_diagram.md)
