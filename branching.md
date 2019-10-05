@@ -1,23 +1,25 @@
 #                                Git Branching
 
 Tables of contents
-* What is git 'Branching' ?
+* [What is git 'Branching' ?](https://github.com/prajaktavpendse/projectpractice/blob/master/what_is_branching.md)
 
 * Branching workflow
-    *Decentralize but centralize
+    *[Decentralize but centralize](https://github.com/prajaktavpendse/projectpractice/blob/master/decentralize_but_centralize.md)
 
-    *Main branches
+    *[Main branches](https://github.com/prajaktavpendse/projectpractice/blob/master/main_branches.md)
         1. Master
         2. Develop
 
-    *Supporting branches
+    *Supporting branches(https://github.com/prajaktavpendse/projectpractice/blob/master/supporting_branches.md)
         1. Feature branches
         2. Release branches
         3. Hotfix branches
 
-* Branching detail workflow diagram
+* Branching detail workflow diagram(https://github.com/prajaktavpendse/projectpractice/blob/master/detail_branching_diagram.md)
 
-* Reference           
+* Reference(https://github.com/prajaktavpendse/projectpractice/blob/master/reference_branches.md)
+
+--------------------------------------------------------------------------------------------------------          
 
 #What is git branching?
 
