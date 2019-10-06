@@ -4,21 +4,21 @@
 ###Table of Contents
 ------------------------------------------------------------------------------------------------
 
-##### 1.[What is Github Repository?](https://github.com/prajaktavpendse/projectpractice/blob/master/what_is_repo.md)
+##### 1.[What is Github Repository?](https://github.com/prajaktavpendse/projectpractice/blob/master/Repository/what_is_repo.md)
 
-##### 2.[How to create a new repository?](https://github.com/prajaktavpendse/projectpractice/blob/master/create_repo.md)
+##### 2.[How to create a new repository?](https://github.com/prajaktavpendse/projectpractice/blob/master/Repository/create_repo.md)
 
-##### 3.[About repository visibility](https://github.com/prajaktavpendse/projectpractice/blob/master/repo_visibility.md)
+##### 3.[About repository visibility](https://github.com/prajaktavpendse/projectpractice/blob/master/Repository/repo_visibility.md)
 
-##### 4.[Making a repository private](https://github.com/prajaktavpendse/projectpractice/blob/master/private_repo.md)
+##### 4.[Making a repository private](https://github.com/prajaktavpendse/projectpractice/blob/master/Repository/private_repo.md)
 
-##### 5.[Making a repository public](https://github.com/prajaktavpendse/projectpractice/blob/master/public_repo.md)
+##### 5.[Making a repository public](https://github.com/prajaktavpendse/projectpractice/blob/master/Repository/public_repo.md)
 
-##### 6.[Deleting a repository](https://github.com/prajaktavpendse/projectpractice/blob/master/deleting_repo.md)
+##### 6.[Deleting a repository](https://github.com/prajaktavpendse/projectpractice/blob/master/Repository/deleting_repo.md)
 
-##### 7.[Transferring a repository](https://github.com/prajaktavpendse/projectpractice/blob/master/transferring_repo.md)
+##### 7.[Transferring a repository](https://github.com/prajaktavpendse/projectpractice/blob/master/Repository/transferring_repo.md)
 
-##### 8.[Archiving a repository](https://github.com/prajaktavpendse/projectpractice/blob/master/archiving_repo.md)
+##### 8.[Archiving a repository](https://github.com/prajaktavpendse/projectpractice/blob/master/Repository/archiving_repo.md)
 
 -------------------------------------------------------------------------------------------------
 
