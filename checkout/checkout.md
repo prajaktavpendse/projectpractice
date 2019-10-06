@@ -3,7 +3,7 @@
 
 ## Table of contents:
 
-* [Git checkout](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/git_checkout.md)
+* Git checkout [![button](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/clickme.png)](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/git_checkout.md)
 
 * [Checking out branch](https://github.com/prajaktavpendse/projectpractice/blob/master/checkout/checking_out_branch.md)
 
