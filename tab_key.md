@@ -6,3 +6,7 @@ When typing in long path names, simply type in the first few letters and then pr
 
 ![See image](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/Use_of_tab_key.PNG)
 I would just need to type in C:\U and then press the TAB key.
+
+Lorem ipsum dolor sit amet.
+
+[Click here](http://google.com){: .btn}
