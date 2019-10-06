@@ -9,4 +9,6 @@ I would just need to type in C:\U and then press the TAB key.
 
 Lorem ipsum dolor sit amet.
 
-[Click here](http://google.com){: .btn}
+Lorem ipsum dolor sit amet.
+
+<button name="button" onclick="http://www.google.com">Click me</button>
