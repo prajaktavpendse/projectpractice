@@ -17,7 +17,7 @@ Remote Repository                          |        Local Repository
                                                                      
   3.A **remote repository** doesn't have a working directory.
 
-    **Local repository has a woring copy associated with it working directory
+    **Local repository** has a woring copy associated with it working directory
     where version of your files is checked outfor you.
 
  -----------------------------------------------------------------------------------------                                      
