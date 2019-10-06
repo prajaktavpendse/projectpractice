@@ -7,6 +7,7 @@
 *  [Difference between git remote repository and git local repository](https://github.com/prajaktavpendse/projectpractice/blob/master/Remote/diff_remote_local.md)
 
 *  Git repository configuration
+
           * [Git remote add](https://github.com/prajaktavpendse/projectpractice/blob/master/Remote/remote_add.md)
 
           * [Git remote remove](https://github.com/prajaktavpendse/projectpractice/blob/master/Remote/remote_remove.md)
