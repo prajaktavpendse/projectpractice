@@ -1,4 +1,6 @@
->Making a repository private
+# Making a repository private
+
+---------------------------------------------------------------------------------------------------
 
 If you're using GitHub Free, private repositories owned by a personal account may have up to three collaborators. If you have added more than three other users as repository collaborators, you'll need to reduce the number of collaborators to three or fewer before making the repository private, or upgrade to GitHub Pro.
 

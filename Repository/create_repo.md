@@ -1,4 +1,6 @@
->How to create a new Github Repository?
+# How to create a new Github Repository?
+
+-------------------------------------------------------------------------------------------
 
 * Open github.com
 

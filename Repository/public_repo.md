@@ -1,4 +1,6 @@
->Making a repository public
+# Making a repository public
+
+------------------------------------------------------------------------------------------------------
 
 ##### Steps to create public repository
 
