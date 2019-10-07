@@ -27,7 +27,7 @@ Tables of contents
 
 * Branching detail workflow diagram [![button](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/clickme.png)](https://github.com/prajaktavpendse/projectpractice/blob/master/branching/detail_branching_diagram.md)
 
-* Reference! [button](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/clickme.png)](https://github.com/prajaktavpendse/projectpractice/blob/master/branching/reference_branches.md)
+* Reference ![button](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/clickme.png)](https://github.com/prajaktavpendse/projectpractice/blob/master/branching/reference_branches.md)
 
 --------------------------------------------------------------------------------------------------------          
 
