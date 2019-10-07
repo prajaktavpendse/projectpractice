@@ -26,7 +26,7 @@ Table of Contents:
 
 * More ways to use history command [![button](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/clickme.png)](https://github.com/prajaktavpendse/projectpractice/blob/master/more_ways_to_use_history.md)
 
-* Reference [![button](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/clickme.png)]
+* Reference [![button](https://github.com/prajaktavpendse/projectpractice/blob/master/Images/clickme.png)](https://github.com/prajaktavpendse/projectpractice/blob/master/History_command/reference_history.md)
 
 ![Wanna know more about history command!](https://linux.die.net/man/3/history)
 
