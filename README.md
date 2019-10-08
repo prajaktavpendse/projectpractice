@@ -28,7 +28,7 @@
                   *Commands*
           --------------------------
 
-         * ![History Command](https://github.com/prajaktavpendse/projectpractice/blob/master/History_command/history.md)
+         * History Command (https://github.com/prajaktavpendse/projectpractice/blob/master/History_command/history.md)
 
          * PWD Command (https://github.com/prajaktavpendse/projectpractice/blob/master/PWD_command/pwd.md)
 
