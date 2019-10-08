@@ -8,4 +8,4 @@
 
 ## SYNTAX:
 
-cp(existing file name)(new file name)
+    cp(existing file name)(new file name)
