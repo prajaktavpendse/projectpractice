@@ -31,6 +31,8 @@
 
 * Remote add/show/rename (https://github.com/prajaktavpendse/projectpractice/blob/master/Remote/remote.md)
 
+* Forking Vs Cloning (https://github.com/prajaktavpendse/projectpractice/blob/master/forkingVscloning/indexforkVsclone.md)
+
 
                       *Information About*
          ------------------------------------
