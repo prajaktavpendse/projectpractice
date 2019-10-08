@@ -1,7 +1,7 @@
 #                            WEB SYSTEMS DEVELOPEMENT
                                 (Mini project -1)
 
- * Porject partners
+### Porject partners
 
     1. Prajakta Pendse.(pp765@njit.edu)
 
@@ -9,7 +9,7 @@
 
     3. Ruchi Rawat. 
 
-* About project
+### About project
 
      Our project is about the various features on how to use github extensively .
 
@@ -18,7 +18,7 @@
 
 
 
-* Individual contributors
+### Individual contributors
 
     * Priyanka S. (https://github.com/prajaktavpendse/projectpractice/tree/master/Priyanka)
 
@@ -56,8 +56,8 @@
 
          * Git and Github (https://github.com/prajaktavpendse/projectpractice/blob/master/Vi/what_is_git.md)
 
-* [Changelog](https://github.com/prajaktavpendse/projectpractice/blob/master/log.txt)
+### [Changelog](https://github.com/prajaktavpendse/projectpractice/blob/master/log.txt)
 
-* [Sources](https://github.com/prajaktavpendse/projectpractice/blob/master/sources.md)
+### [Sources](https://github.com/prajaktavpendse/projectpractice/blob/master/sources.md)
 
     
