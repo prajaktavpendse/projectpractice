@@ -1,7 +1,6 @@
     
 *Individual Contribution*
 
-------------------------------------------------------------------------------------------------
 
 
     * Priyanka S. (https://github.com/prajaktavpendse/projectpractice/tree/master/Priyanka)
