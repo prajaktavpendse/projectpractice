@@ -12,11 +12,8 @@
 
 - open .bashrc file in your home directory
 
-- then add 
-
-''' python
-export PATH="your-dir:$PATH" 
-'''
-where dir is the directory you want
+- then add export PATH="your-dir:$PATH" where dir is the directory you want
 
 - save the .bashrc file
+
+![image](https://user-images.githubusercontent.com/54865970/66371848-86e1cf80-e972-11e9-9ac6-85461f34aae6.png)
