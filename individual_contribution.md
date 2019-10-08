@@ -36,3 +36,30 @@
 
 * Git and Github (https://github.com/prajaktavpendse/projectpractice/blob/master/Vi/what_is_git.md)
 
+-------------------------------------------------------------------------------------------------
+
+** Our distribution as we decided in the beginning:**
+
+**Prajakta**
+
+ * cd,pwd,history,using tab key features
+
+ * Repository,branching,checkout,remote add/show/rename features
+
+ * Forking Vs Cloning 
+
+**Priyanka**
+
+ * cp,rm,file paths in linux,using up and down arrow for history features
+
+ * Fork,merge,pull,master branch features
+
+ * Adding collaborator to github repository feature
+
+ **Ruchi**
+
+ * mkdir,mv,home directory features
+
+ * Clone,commit,push,status features
+
+ * Pull request feature
