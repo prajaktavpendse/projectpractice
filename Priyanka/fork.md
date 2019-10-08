@@ -17,6 +17,6 @@ A great example of using forks to propose changes is for bug fixes. Rather than 
 
 If the project owner likes your work, they might pull your fix into the original repository.
 
-** Forking and pull **
+**Forking and pull**
 
 ![fork](https://user-images.githubusercontent.com/54865970/66372498-1fc51a80-e974-11e9-8b04-db46ee1a8924.png)
