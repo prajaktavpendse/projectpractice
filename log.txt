@@ -1,0 +1,1221 @@
+commit 7cdfed38cff07946a6c28820d2358dcb8383130d
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 23:30:57 2019 -0400
+
+    Task: Added git file
+
+commit 4a518290f64d71ea5f8ef35f18b4aed2f0d475fe
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 23:27:29 2019 -0400
+
+    Task: Added vi file
+
+commit f50b9b17901d91cb598f9dd96968db243a949d0e
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 23:25:50 2019 -0400
+
+    Task: Added description of Vi
+
+commit 3e9aa73f083462a678746f60f51fcec9826e8636
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 22:19:40 2019 -0400
+
+    Task: Removed Prajakta folder
+
+commit 6073dbe2ea075854e2bbda22c15e562e9ea6c0e3
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 22:18:00 2019 -0400
+
+    Task: Added pwd file to project practice
+
+commit b58e99c73b45c5d7f9d418b0d0a01fc770e0c74e
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 21:43:46 2019 -0400
+
+    Task: Added changelog file
+
+commit 8963dbe65ea853e609a65dc33da73625896e7895
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 21:29:18 2019 -0400
+
+    Task: Added PWD to main file
+
+commit 1dc297549d6e75cca8da856036c3431ef58ca195
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 21:18:07 2019 -0400
+
+    Fixing
+
+commit 91f859b613d2bc787723e0d4916637b1d23166b7
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 21:16:54 2019 -0400
+
+    Task: Added file
+
+commit 4c4c83861086f59526f3a1e5001161a634d8bf7f
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 21:16:15 2019 -0400
+
+    Fix: Saving issue
+
+commit 2403dcb69c8ecfe593185853abfb911f2d805031
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 21:11:57 2019 -0400
+
+    Task: Added readme file to read me folder
+
+commit fb94edf5cc15eb48b61f9d0ac4ec8484761060c9
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 21:10:45 2019 -0400
+
+    Task: Added proj description
+
+commit c8330bff110f76f88487b9d8be95825ebfd0886b
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 21:07:19 2019 -0400
+
+    Task: Added project information
+
+commit 837d499b105ecbb3c0aab6983357a2eb706ba3cf
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 20:47:43 2019 -0400
+
+    Task: Added images
+
+commit 41f9282500ff2e49b291781d40333d67c426228c
+Merge: e05e94d 63359eb
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 20:44:56 2019 -0400
+
+    Merge branch 'master' of https://github.com/prajaktavpendse/projectpractice
+
+commit 63359eb42820ecdfcfe76c3c47645d8596d879b6
+Author: Priyanka Dharan <priyankadharan@priyankas-air.resource.campus.njit.edu>
+Date:   Mon Oct 7 20:44:47 2019 -0400
+
+     feature - pull request
+
+commit e05e94d1de51d42da642a63c0aa3c68f180d82f2
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 20:44:10 2019 -0400
+
+    Task: Added images
+
+commit a55ccadd28528994509dcf0c9584861205e41b44
+Author: Priyanka Dharan <priyankadharan@priyankas-air.resource.campus.njit.edu>
+Date:   Mon Oct 7 20:43:03 2019 -0400
+
+     feature - file paths in linux
+
+commit f596d0eb9d7d865303675c7b1a4ed17b33661fa8
+Author: Priyanka Dharan <priyankadharan@priyankas-air.resource.campus.njit.edu>
+Date:   Mon Oct 7 20:39:27 2019 -0400
+
+    merging the repositories
+
+commit 88c00212f3b14c42532cbee7eb3ed32c6c5ab4bf
+Author: Priyanka Dharan <priyankadharan@priyankas-air.resource.campus.njit.edu>
+Date:   Mon Oct 7 20:36:54 2019 -0400
+
+    feature - master branching
+
+commit 8c6ec8b48b62b435e088bea7497c1e809388c45c
+Author: Priyanka Dharan <priyankadharan@priyankas-air.resource.campus.njit.edu>
+Date:   Mon Oct 7 20:34:16 2019 -0400
+
+    feature - forking method
+
+commit 03e2548b1d75205c661b3f7b5e4eb9fb18dcba4a
+Author: Priyanka Dharan <priyankadharan@priyankas-air.resource.campus.njit.edu>
+Date:   Mon Oct 7 20:32:49 2019 -0400
+
+    feature - delete command
+
+commit cfe8957f2304da20d561e73b2a63493b30659fa7
+Author: Priyanka Dharan <priyankadharan@priyankas-air.resource.campus.njit.edu>
+Date:   Mon Oct 7 20:29:28 2019 -0400
+
+    feature - copy command
+
+commit b2eb7787732a07ca05e2cc08c68289c8eb06f391
+Author: Priyanka Dharan <priyankadharan@priyankas-air.resource.campus.njit.edu>
+Date:   Mon Oct 7 20:25:32 2019 -0400
+
+    Feature: Added collaborator to github information
+
+commit 8869ffee2250fde26f5bf195327c1bc485e3ea99
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 13:13:19 2019 -0400
+
+    Fix: URL correction
+
+commit 74e106252adc7b52855f32891e92dba62554839c
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 13:11:02 2019 -0400
+
+    Task: Corrected URLS
+
+commit 2457b756c104ad58f57f441074f10a8f60850056
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 13:06:07 2019 -0400
+
+    Fix:Issue
+
+commit 05bb637fc113ed783742ddf41f1f27c9feb6fca9
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 13:03:04 2019 -0400
+
+    Task:Added history file
+
+commit d0ee3e51f16b0905bccc277253dcca5d8645181c
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 12:58:12 2019 -0400
+
+    Fix: URL
+
+commit 1a0245dc1985c9878829f5b268debb6a52b9cbe9
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 12:53:29 2019 -0400
+
+    Task: Corrected URL
+
+commit 1fc2c979bc47c4c36537b99f9530104c7f3e07fb
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 12:53:04 2019 -0400
+
+    Task: Corrected image URL
+
+commit c81ed05026a38acad9694d671182819c8084a1ac
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 12:48:31 2019 -0400
+
+    Task: Added .md file to tab key folder
+
+commit 864168bda7e5fc5f2ac6c71d219ddd0d47ab8472
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 12:45:37 2019 -0400
+
+    Task: Added info
+
+commit c9d5987a47b2989c9e2158e0c2abe54e0cdc9a60
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 12:27:18 2019 -0400
+
+    Task:Moved .md file
+
+commit 894382cebdbfea36a53bbd9de7b37b73b3449197
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 12:25:59 2019 -0400
+
+    Task: Added info
+
+commit 37d5e4f11f4f55bde8b0947f91041d194900621a
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 12:20:08 2019 -0400
+
+    Task: Moved history files to history folder
+
+commit 9c1ec8712d0b1cf9e104aba96b2a461f58a8db5a
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 12:09:27 2019 -0400
+
+    Task: moved cd.md file to cd folder
+
+commit b235c1e4323b56d7ba67514e7667a609b9eb4f61
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 12:07:27 2019 -0400
+
+    Task:Corrected spacing
+
+commit 1e1ef3980297415babc05100ccc49a08b4b6fa82
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 12:04:35 2019 -0400
+
+    Task: Added file
+
+commit bc8c3965da7f0dda0d80d9c5d81ae47cc966e45d
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 12:02:51 2019 -0400
+
+    Task: Added PWD folder
+
+commit d4882059106cec926555090f5fa70420c5d552ed
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 12:00:09 2019 -0400
+
+    Task: Added button feature to remote.md
+
+commit 33a69e124eba029097443ef999755b7945270f4e
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 11:53:58 2019 -0400
+
+    Task: Deleted incorrect info
+
+commit f8f92ddb6b918e7b4687d65890285f3bb8772bb9
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 11:52:52 2019 -0400
+
+    Task: Finalized Checkout feature
+
+commit 3925bfb74452f51f284ba397a661c22c75548365
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 11:45:28 2019 -0400
+
+    Task: Added reference
+
+commit 3fcf8f2f02ca25d885d282fbd64dee31f0a34d01
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 11:42:58 2019 -0400
+
+    Task: Added reference file for repo
+
+commit 4f4e93689aac0c01de3856114b75fc46048d9233
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 11:37:27 2019 -0400
+
+    Task: Separated data and corrected line spacing
+
+commit cf654b464a0db243c79c6d5b840be141699f6495
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 11:25:09 2019 -0400
+
+    Fix: Space issue again
+
+commit 465f2d14dd0fb14c12aa3140922c92d28d2f48a8
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 11:23:31 2019 -0400
+
+    Fix: Space issue
+
+commit 71f6c82463a99216b5a053294be487309964a601
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 11:21:40 2019 -0400
+
+    Task: Added file branching.md
+
+commit 93361262ef137245877b9d94839ea17a3bd87a81
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 11:00:46 2019 -0400
+
+    Task: Added branching folder
+
+commit 90ebc2867942287ba817c9e722ea7bd8db161592
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 10:54:29 2019 -0400
+
+    Task: Saved the Index data
+
+commit 23d8c5a5b083ad3c0e03c275711a67a1cc77f639
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 10:52:32 2019 -0400
+
+    Task: Added references
+
+commit a2169e02e7014d8ec2cb252ddabb812213aea881
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 10:48:55 2019 -0400
+
+    Task: Added index file
+
+commit 495bba49e89e667dfecd7b4a8a00a2ddf96f4f7c
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 10:38:29 2019 -0400
+
+    Task: Added cloning image
+
+commit 822d48d6f08f247105e10d24ff76fa30abe07db2
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 10:37:27 2019 -0400
+
+    Fix: Saved clone data
+
+commit b9b5af1e8309feca4f64881ae8457997dafba938
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 10:28:55 2019 -0400
+
+    Task: Added cloning file
+
+commit b3f393844b1c84cd413f327717bb31a70f59d42c
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 10:27:35 2019 -0400
+
+    Task: Added information about forking
+
+commit 4270134128f05934ab428dc5a487f5b334809a57
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 10:24:33 2019 -0400
+
+    Feature: Added ForkingVsCloning feature
+
+commit ab933bafb407bf2fa3eb46bec1f3a2d25cdf2cef
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 11:44:08 2019 -0400
+
+    Task: Corrected image
+
+commit 77c2d90a63bf9c61236b194db70be918d7efe58c
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 11:34:51 2019 -0400
+
+    Fix: Image replaced for click me
+
+commit a3f2710ab810c650f02e0d6450e043d6be325779
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 11:32:21 2019 -0400
+
+    Task: Added click me button
+
+commit c3d48eab361df31e371fe8cff81a49daccc68795
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 11:29:22 2019 -0400
+
+    Task: Added click me
+
+commit e9d5434d862cd51b5de35dcc7392cb8b7220b7e5
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 11:26:33 2019 -0400
+
+    Task: Added clickme button
+
+commit aa10e8e1ffe2e31aa6b08874a2d1503414327259
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 11:17:19 2019 -0400
+
+    Fix: Added new button
+
+commit 205b703d51c9dbf93b9ff675a59467defb4811ee
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 10:50:17 2019 -0400
+
+    Fix:corrected button syntax
+
+commit 03bcbf2eded9074e1f294b86528d6792de231be7
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 10:48:55 2019 -0400
+
+    Feature: Added push button
+
+commit 1357b081f6526e286d0908b0b600fff8550e2462
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 10:44:35 2019 -0400
+
+    Fix: trying to fix button
+
+commit e89d218180027f744290c75bbe350d6506061d15
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 10:39:48 2019 -0400
+
+    Feature: Added button feature
+
+commit a344dac1c6f028c48e9c29a787758da09c4ae03f
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 10:35:04 2019 -0400
+
+    Feature: Tried to add button
+
+commit 81088b652c6ea7de1dcaf6b5ec7a42151ef0a8f8
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 00:23:31 2019 -0400
+
+    Task: Removed repository info point
+
+commit dd0f8f2498d37ec97397195d772e30c3c036aede
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 00:21:56 2019 -0400
+
+    Task: Corrected line spacing
+
+commit 18b1a835b56193cf2ab5b5c7e2770fde99b3e734
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 00:20:39 2019 -0400
+
+    Task: Added links to remote.md
+
+commit 0d3874a0d7af1b8bd120cbab104432d2a1387008
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sun Oct 6 00:11:55 2019 -0400
+
+    Task: Added remote information
+
+commit e861be73fdeecc477f8a9715e1b37826ed6adf30
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 23:53:58 2019 -0400
+
+    Task:Added info
+
+commit 0403e11206993d631360e45c05e1b0d8a461bb06
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 23:52:39 2019 -0400
+
+    Fix: Points in difference
+
+commit adc1b38fe14059c88622e3952f0ecaccd7ccac2e
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 23:51:50 2019 -0400
+
+    Fix: Points in difference
+
+commit d2fe1e9f941b9cc4f7ff7aeef66342ad161515d7
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 23:46:29 2019 -0400
+
+    Fix: spacing corrected
+
+commit d0c3b4aba06780499c7e9df8b554249280797ba7
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 23:43:17 2019 -0400
+
+    Task: Added Difference between local and remote repo
+
+commit 40bbca9d226b4f81d3744f565d9560f2f5927f13
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 22:57:25 2019 -0400
+
+    Task:Added remote screenshot
+
+commit 401eb6d4ec0f0bb77cb94c112e479361c5fe7081
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 22:52:54 2019 -0400
+
+    Fix: Corrected URLs
+
+commit 0fc82bae5733ebd5044146a0b3c73ac64e27c91a
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 22:46:24 2019 -0400
+
+    Fix: Saved all changes
+
+commit 988bc5aff98be49b0923cf31bc7f2f02a777e63f
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 21:56:28 2019 -0400
+
+    Task: Added Repository.md file to Repository folder
+
+commit 7c7c6990b23985d3b8b9d2c71d7a063105ae8321
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 17:44:17 2019 -0400
+
+    Task: separated repository files
+
+commit 33722de8f5928053f846de56995f3e1fd4e5d18f
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 17:32:47 2019 -0400
+
+    Fix: Effects
+
+commit 33482d96fdb7ccfbfca3a72513e4942efda2e38c
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 17:30:59 2019 -0400
+
+    Task: Corrected space error
+
+commit 2a342265e0666ebfad8c3b6349ca44f6354cda80
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 17:26:23 2019 -0400
+
+    Task: Added information about checkout
+
+commit ff14af212ceb85e36e9ed2a38036a66b2d92dedd
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 17:20:01 2019 -0400
+
+    Task: Added individual files for checkout feature
+
+commit f9e4ddffdb57de4ecb5857b954ee40469fb65ac8
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 17:07:52 2019 -0400
+
+    Feature: Added info about git checkout
+
+commit 7962c168a643aa2d90ac75a4846ca9032164623a
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 16:57:13 2019 -0400
+
+    Task: Added new_exisiting freature screesnhot
+
+commit 5a2d299909ef9ae822cf47d09e275d31eb9e0450
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 16:51:43 2019 -0400
+
+    Task: Added checkout_b screenshot
+
+commit 1624f11981df7466ac1926ffdb7ba3aec36d3fcc
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 16:35:04 2019 -0400
+
+    Task: Added checkout screenshot
+
+commit a2f4aa479b19bd372e934d3558057f58b2b8e4b9
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 16:18:58 2019 -0400
+
+    Task: Added screenshot of git branch command
+
+commit 7d043f4b794bf2c2537e5dce21e35d3ca1cb9184
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 15:51:06 2019 -0400
+
+    Feature: Added checkout feature
+
+commit b9f9c4efc7f137981b5ea273345e3461c56606f5
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 15:08:23 2019 -0400
+
+    Task: Added diagram for feature supporting branch
+
+commit 8ab7849aab89121ca1bad0ae08b414ff82716d49
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 15:06:29 2019 -0400
+
+    Task: Added feature branch image
+
+commit 81e0649e440d78f0c53c9aca1c89461fdb2ba001
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 15:03:08 2019 -0400
+
+    Task: Added branching details
+
+commit 0df32311a1371522f60833f4d9a9c94c78d2227a
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 15:01:06 2019 -0400
+
+    Fix: Fixed spacing issue
+
+commit c8ac25e1fbd377b154ec90494da3997acce57014
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 14:59:49 2019 -0400
+
+    Fix: Corrected line spacing
+
+commit c1b0170708c31c0ccb5c7ff59900d5f33ee18bc4
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 14:57:34 2019 -0400
+
+    Task: Added links for individual branching files
+
+commit fc446d4b4161058994f2df0a50107325c97cd379
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 14:51:59 2019 -0400
+
+    Task: Uploaded files and index for branching
+
+commit a45ec83a4cfda717681a89b164a72b3d277a7d6e
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 13:54:34 2019 -0400
+
+    Task: Added Centralized branching image
+
+commit 96477447dfaaf6222fb8ddae1f3bb9aecd498c9e
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 11:51:20 2019 -0400
+
+    Task: Added hotfix branch image
+
+commit 78b5a3bfb0a51f1a77e343d3ecbc6e7075d5f00f
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 11:49:37 2019 -0400
+
+    Task: Added hotfix_branch image
+
+commit dd7b48c2d4e8736c77bce3ae6a489c3cd3afb3c9
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 11:17:48 2019 -0400
+
+    Fix: Space correction
+
+commit 2a2734a7cbb40eedd71c41efc85764f8fbb2be75
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 11:14:27 2019 -0400
+
+    Feature: Added git branching workflow
+
+commit b38ef832c693b267ed7408b6bfe6bddc8449ab6a
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 11:09:07 2019 -0400
+
+    Task: Added screenshot for branch
+
+commit 20627a8a3e5a0c20e090a9227afa391b85a4ebd2
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Sat Oct 5 00:01:10 2019 -0400
+
+    Feature: Added branch file
+
+commit a6488631f9321a7299efa459cdcab94f22bc291e
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Fri Oct 4 23:17:06 2019 -0400
+
+    Task: Added info about repo
+
+commit f3f85060c19ef5fe429ba41476345e46df3d195e
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Fri Oct 4 23:08:29 2019 -0400
+
+    Task:Added info about creating repo
+
+commit 441e46cd1435cfb58252d89937ac8868d0769313
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Fri Oct 4 22:56:49 2019 -0400
+
+    Task: Added repository information
+
+commit f470e9d69175c7ffc2681cbc4ecda8336898b4db
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Fri Oct 4 22:56:04 2019 -0400
+
+    Task:Added images for repository
+
+commit 3a671adcd6810f17d8fcb71f8c3277b947504089
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 17:09:51 2019 -0400
+
+    Task: Added tab key image
+
+commit b6a917b21dd4e2d4d8046ae7586ef7cf6e8d3ab5
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 17:00:17 2019 -0400
+
+    Fix: Line spacing and font
+
+commit 72ee58b8f4feed564854d09e8425fa183e4e4032
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 16:58:02 2019 -0400
+
+    Fix: Corrected line spacing
+
+commit b39e7458467296278df6c536bbf6377847da222a
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 16:54:49 2019 -0400
+
+    Fix: Added effects
+
+commit c81d26934cfe261ab68f838260065c62514c86bc
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 16:52:23 2019 -0400
+
+    Fix: Syntax corrected
+
+commit ae2879cb4037d007ed8687b6ae7844b8c879664d
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 16:50:55 2019 -0400
+
+    Feature: Added history
+
+commit 81eeb0c87757f1b2f6ab1d657d1f45e6f68b8a60
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 16:49:51 2019 -0400
+
+    Task: Added some more usa of history command
+
+commit 7e441f9283ce1aa99f1b3cf8318751b656f129bc
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 16:40:38 2019 -0400
+
+    Task: Uploaded separate links for questions
+
+commit 2da893561049d563b598b74e763e56e57af6bd5d
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 16:33:29 2019 -0400
+
+    Fix: Corrected syntax
+
+commit 457ec223138c32e9d9a4c60bcfa78ecd918ad05a
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 16:31:54 2019 -0400
+
+    Task: Added history information
+
+commit 52babb31365e786ec9c6af098abcb207207ed1eb
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 16:29:20 2019 -0400
+
+    Task: Added history command information
+
+commit 89ce9e2f5ed46dfb7d3b1a40c7860ca2f9aa9def
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 15:57:32 2019 -0400
+
+    Task: Added more information about history command
+
+commit 852b266ee3f10742fbb5ce55586ebea3ecd106c5
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 15:44:28 2019 -0400
+
+    Task: Uploaded screenshot for step2 of quick history search
+
+commit a60889058a802a92bf477959b5f644c6c437c4e7
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 15:40:22 2019 -0400
+
+    Task: Uploaded screenshot for quick history search
+
+commit 485fdc49b2610124ddab9da8105a1dad74963ed6
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 15:27:02 2019 -0400
+
+    Task: Added clear history details
+
+commit 15657fa9dd8515afb49e606f6476162149c3cce8
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 15:01:00 2019 -0400
+
+    Task:Added history date time command picture
+
+commit aaefa307611479f224c9cee7fcc4291c76b4c16b
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 14:05:16 2019 -0400
+
+    Task: Added history command usage
+
+commit 003a39453375aaca64c8d4469cdd7f974268ee06
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 11:30:52 2019 -0400
+
+    Fix: corrected syntax
+
+commit c3b56298af26c81957d400173f59d0dfb11136b0
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 11:28:52 2019 -0400
+
+    fIx: Corrected syntax
+
+commit 8825cfb8ea25580ae8a678bc9712dcefbe8df1b9
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 11:27:56 2019 -0400
+
+    Task: Added pwd image
+
+commit 4117b714bf1e5b29629a23d8d6f3682fc378a57e
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 11:22:46 2019 -0400
+
+    Task: Added picture of pwd command
+
+commit a1e2459e8f9e322132ee971866faff4403b851e6
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 11:00:47 2019 -0400
+
+    Task:Added link for an image
+
+commit fc1d1110ecea8240bab93f8aae4bb5c706f0ac98
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 10:59:04 2019 -0400
+
+    Task: Added image for pwd
+
+commit c21aeb5e7bf0f8088d076b11f7d7333730ee6354
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 10:55:13 2019 -0400
+
+    Task: Added answer for how to print pwd
+
+commit a42b376069a093f67b6a6e8e51199406cf9e3094
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 10:51:28 2019 -0400
+
+    Task:Added downlaod button
+
+commit 423dea60dabdc691a5ed10fbecd065c07502ede1
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 10:48:08 2019 -0400
+
+    Fix: Corrected link syntax
+
+commit e1961fa2733cc7cf734fbbf130bd0e1b3cec1c15
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 10:46:38 2019 -0400
+
+    Task: Tried to add link for first pwd question
+
+commit 3b367239acd0e50fd315141839a78d53c9231d44
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 10:43:19 2019 -0400
+
+    Task: Added link for pwd definition
+
+commit 271262f06bac646e72d8f67d4e0b378660207aa0
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 10:41:15 2019 -0400
+
+    Task: Tried to add file
+
+commit 151c48d7c034b16b10ac13493cc9dbc7870b98d3
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 10:36:27 2019 -0400
+
+    Task: Added spoiler
+
+commit dd476493ab6be6fd09e2ce939c24ac376a6603c1
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 10:34:05 2019 -0400
+
+    Task: Added hide bar feature
+
+commit 71a1f7ad06c4119d60c6b651136881f6916c962f
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 10:20:33 2019 -0400
+
+    Task:Added quiz question
+
+commit c893ead42e6c76d455fac739c43cb346f3fb1c2e
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 10:01:23 2019 -0400
+
+    Task:Added image
+
+commit f581cef4893f992bf33044f499dc00ea49c116fe
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Oct 4 09:57:36 2019 -0400
+
+    Task: Added images folder
+
+commit bbe8c1272a9b2cea8744caced770fe54e448419e
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Oct 3 15:16:48 2019 -0400
+
+    Task:Uploaded an image screenshot for a pwd command
+
+commit 0c2020271c0f7d607d9da471e63e29291243fef8
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Oct 3 15:03:48 2019 -0400
+
+    Feature: Added pwd.md
+
+commit 99a5093e9ea4715b402da2d0ce6844d73b82aa23
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Oct 3 14:30:49 2019 -0400
+
+    Task: Added Table
+
+commit 6fe6196ffde547a5194095e3c2e17100ef9d7ece
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Oct 3 14:14:29 2019 -0400
+
+    Taks1
+
+commit 5bda8aa89177ba1cd8d4c1f7753b76ae9b097be9
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Oct 3 14:05:24 2019 -0400
+
+    Task:Added Usage of cd
+
+commit bf6d02db48ea0749ad4ded7ace457b7515bb2259
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Oct 3 14:02:41 2019 -0400
+
+    Task: Added text feature
+
+commit c2be38d4c1e28e0c09a87c8a11a6217f5abe9bbb
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Oct 3 13:57:15 2019 -0400
+
+    Task: Added miltiple choice question
+
+commit 0faf955aec0fe854389895414f78aae260a1f73d
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Oct 3 13:48:57 2019 -0400
+
+    Fix: Added usage of Cd command
+
+commit 5a671bee9208c7475e54dd1d6c151df46152e3f2
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Oct 3 13:43:35 2019 -0400
+
+    Fix: Added text feature
+
+commit 5569ba3df0d82ced9443ee940c90eabad28324cf
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Oct 3 13:41:03 2019 -0400
+
+    Fix: Text style
+
+commit e7fff0601e70ff801aecd490c1b00dd9e1ec9f20
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Oct 3 13:37:53 2019 -0400
+
+    Task: Added usage of cd command
+
+commit d645d208b21ed365793ad0749dd71ca653fd53ea
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Oct 3 13:35:09 2019 -0400
+
+    Feature: Added cd command
+
+commit 07597eef21ce4b12dc76e3a0bee1999cb1c7cd3d
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Tue Oct 1 15:13:22 2019 -0400
+
+    Just practice
+
+commit 4bef01db4322a7129777d41dfc58cf159a74c3cb
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sun Sep 29 18:29:05 2019 -0400
+
+    Repo
+
+commit 58ca1fdde1a413c2dd8217f6ec52b23ec32622c0
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sun Sep 29 18:28:03 2019 -0400
+
+    Repo
+
+commit 4f22396bbbf8c7682fc1caf688e05cf49baaaf9b
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sun Sep 29 18:27:01 2019 -0400
+
+    Repo
+
+commit 4c8b13325280e3800c72e5909089af033c4f6a62
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sun Sep 29 18:25:15 2019 -0400
+
+    Repo
+
+commit f9ebcdd161d0af10551c09f07c2e81273fd698f6
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sun Sep 29 18:24:27 2019 -0400
+
+    Repo
+
+commit 51c683d81d36064ae5b9c5dad0b9e11d2d271d82
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sun Sep 29 18:13:40 2019 -0400
+
+    Repo
+
+commit ac7cfcde9147599f35e673fea880fea69bf054dc
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sun Sep 29 18:12:52 2019 -0400
+
+    Repo
+
+commit 3c7dbfc7ad18d272668b2c7156c46e14afcf9f2d
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sun Sep 29 18:05:04 2019 -0400
+
+    Repository
+
+commit 5b99e09a066ac756721507303df43f9bf11f0f69
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sun Sep 29 17:44:41 2019 -0400
+
+    cd command
+
+commit 1990f6c02708f5bac6b35d83a55b5651224c5256
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sun Sep 29 17:40:57 2019 -0400
+
+    Cd command
+
+commit a5654cc363864d6e7e0d07c690f43852e8bb3d0e
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sat Sep 28 23:48:24 2019 -0400
+
+    Latest change
+
+commit c2735f19c58203b1ac8f06827042be0d86a2a6f6
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sat Sep 28 23:43:53 2019 -0400
+
+    Markdown
+
+commit bcf7f8f2dcccc5d91c56a1b80c0e1cf29a4e032b
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sat Sep 28 23:09:28 2019 -0400
+
+    Freshly added
+
+commit b5a84ed2e32f55cf9d5203ca9f50a01ad591ea7f
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Sat Sep 28 23:05:05 2019 -0400
+
+    Modified READ.md
+
+commit 43b64e867c46bf6102edff0cee489dfda9877eab
+Merge: 1985bb8 bcffb8a
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Sep 27 23:45:26 2019 -0400
+
+    Merge branch 'master' of https://github.com/prajaktavpendse/projectpractice
+
+commit 1985bb8a2d63afb2a9bf0de005a8041032b9ef23
+Merge: 8ec9e86 d820213
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Sep 27 23:38:44 2019 -0400
+
+    Merge branch 'master' of https://github.com/prajaktavpendse/projectpractice
+
+commit bcffb8a3aec35f996b9a156c664ac93c81243554
+Merge: 8ec9e86 d820213
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Sep 27 23:38:44 2019 -0400
+
+    Merge branch 'master' of https://github.com/prajaktavpendse/projectpractice
+
+commit 8ec9e86cf4b5512014f71cee9b36d4096af33ac5
+Merge: 3a8369c 0c41e94
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Sep 27 23:33:19 2019 -0400
+
+    Merge branch 'master' of https://github.com/prajaktavpendse/projectpractice
+
+commit d820213a691516811d2777870004f8deabad34d3
+Merge: 3a8369c 0c41e94
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Sep 27 23:33:19 2019 -0400
+
+    Merge branch 'master' of https://github.com/prajaktavpendse/projectpractice
+
+commit 3a8369c606e3d68898c87cfe1982d4cf7cd0ba19
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Sep 27 23:27:43 2019 -0400
+
+    Added mkdir command
+
+commit 338f88963400f31ae4e99f2bcff9d256a8969574
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Sep 27 23:22:14 2019 -0400
+
+    Added mkdir command
+
+commit 0c41e940d54085ead0caeb19450ec3afbbbce196
+Author: prajaktavpendse <55120161+prajaktavpendse@users.noreply.github.com>
+Date:   Fri Sep 27 23:17:40 2019 -0400
+
+    Delete new.md
+
+commit 850e4fe5c417b635052a76b5c8fa2768cd8cc1f7
+Author: prajaktavpendse <55120161+prajaktavpendse@users.noreply.github.com>
+Date:   Fri Sep 27 23:17:32 2019 -0400
+
+    Delete siddhu.md
+
+commit e7c347761c38fe63caf186350ca3be91e485aefa
+Author: prajaktavpendse <55120161+prajaktavpendse@users.noreply.github.com>
+Date:   Fri Sep 27 23:17:22 2019 -0400
+
+    Delete my.html
+
+commit 0ecef7658e5fe72850375d46b2e936d0d317c0a0
+Author: prajaktavpendse <55120161+prajaktavpendse@users.noreply.github.com>
+Date:   Fri Sep 27 23:17:10 2019 -0400
+
+    Delete pranjali.md
+
+commit 917bee072a727b8a8894711e5b440f4d40c9f39a
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Sep 27 23:14:46 2019 -0400
+
+    Added cd file
+
+commit 2b325c0edb4a1edace1bc406a1b3dd598f96b89c
+Merge: cd3998d 91ab988
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Sep 27 19:04:44 2019 -0400
+
+    Merge remote-tracking branch 'origin'
+
+commit cd3998df3c356a10f0d3ea6531aa6fc06d5afada
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Fri Sep 27 19:00:55 2019 -0400
+
+    Added Line
+
+commit 194d9b550235e1cbe1d20ebe67fa22bcfbaf2c5f
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Sep 26 22:34:19 2019 -0400
+
+    Bye1!
+
+commit 91ab988eb4aeed699478e0e6ed128ee02acdb883
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Sep 26 22:34:19 2019 -0400
+
+    Bye!
+
+commit 7844eb0ef169a1b9803d4f2e5ea3b66cc6c76a1c
+Merge: 52cd2d2 c6aa3f8
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Sep 26 22:20:25 2019 -0400
+
+    Merge branch 'master' of https://github.com/prajaktavpendse/projectpractice
+
+commit 52cd2d2da67af23c476f86df3c815b759c0bede5
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Sep 26 22:14:43 2019 -0400
+
+    My first commit, test
+
+commit c6aa3f8b8d1a69f6ffd7c2ce9874069903e425f7
+Author: prajaktavpendse <55120161+prajaktavpendse@users.noreply.github.com>
+Date:   Thu Sep 26 20:25:52 2019 -0400
+
+    Update README.md
+
+commit 1888338e696bd786e2a48b4acc7d2a4be48339dc
+Author: prajaktavpendse <55120161+prajaktavpendse@users.noreply.github.com>
+Date:   Thu Sep 26 20:25:29 2019 -0400
+
+    Create pranjali.md
+
+commit 53bac358216758d2854d249b9918e10c738fbf8d
+Merge: c8edc56 b388c85
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Sep 26 20:24:35 2019 -0400
+
+    Merge branch 'master' of https://github.com/prajaktavpendse/projectpractice
+
+commit c8edc566826092a1b874167199050a06cc62bdca
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Sep 26 20:24:20 2019 -0400
+
+    Delete git.md
+
+commit b388c85e47e80b7d60c094c603d9361c542d7b77
+Author: prajaktavpendse <55120161+prajaktavpendse@users.noreply.github.com>
+Date:   Thu Sep 26 20:21:35 2019 -0400
+
+    Delete git.md
+
+commit dc4091150122af295d1d43670539d549fef8bf63
+Merge: 9b8c4f1 4693064
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Sep 26 20:06:42 2019 -0400
+
+    Merge branch 'master' of https://github.com/prajaktavpendse/projectpractice
+
+commit 9b8c4f152ed5cb244414ee89583475154429bf47
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Sep 26 20:06:24 2019 -0400
+
+    Update README.md
+
+commit 4693064ca518466b8a2b0eebbcd9340fbcb070ba
+Author: prajaktavpendse <55120161+prajaktavpendse@users.noreply.github.com>
+Date:   Thu Sep 26 20:05:23 2019 -0400
+
+    Create git.md
+
+commit 51a3cc4e1e3b5ab75c2e4fc6e108210e78cb2bd5
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Sep 26 19:51:07 2019 -0400
+
+    Added new link
+
+commit d9849f81245a430392cd408b9451081935a282e0
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Sep 26 19:48:43 2019 -0400
+
+    Added one line
+
+commit 7cc0e1c55a94c6b4407d167f6090d6f98028e6dc
+Author: Prajakta <prajaktapendse3@gmail.com>
+Date:   Thu Sep 26 19:45:12 2019 -0400
+
+    Update README.md
+
+commit b049c4cf0e15834cee3bf1b95c96c7b6ae4c9283
+Author: prajaktavpendse <55120161+prajaktavpendse@users.noreply.github.com>
+Date:   Thu Sep 26 19:35:54 2019 -0400
+
+    Initial commit
