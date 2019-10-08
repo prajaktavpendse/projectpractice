@@ -2,11 +2,9 @@
 *Individual Contribution*
 
 
+Priyanka S. (https://github.com/prajaktavpendse/projectpractice/tree/master/Priyanka)
 
-    * Priyanka S. (https://github.com/prajaktavpendse/projectpractice/tree/master/Priyanka)
-
-
-    * Prajakta P. 
+Prajakta P. 
 
                   *Commands*
           --------------------------
