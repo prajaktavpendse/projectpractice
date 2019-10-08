@@ -3,7 +3,7 @@
 - When you are able to see others repositories and want to modify it, after completing the modification you pull request to the original repository indicating that you want yo do some changes. 
 - Now it is upto the original repository owning person to accept these changes by reviewing the changes and discuss the potential modifications.
 
-##CREATING THE PULL REQUEST##
+## CREATING THE PULL REQUEST ##
 
 - On GitHub, navigate to the main page of the repository.
 - In the "Branch" menu, choose the branch that contains your commits.
