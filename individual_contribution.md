@@ -1,5 +1,5 @@
     
-# Individual Contribution
+*Individual Contribution*
 
 ------------------------------------------------------------------------------------------------
 
@@ -40,4 +40,3 @@
 
          * Git and Github (https://github.com/prajaktavpendse/projectpractice/blob/master/Vi/what_is_git.md)
 
-         
