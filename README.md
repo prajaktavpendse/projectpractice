@@ -1,4 +1,4 @@
-#                            WEB SYSTEMS Development 
+#                            WEB SYSTEMS DEVELOPEMENT
                                 (Mini project -1)
 
  * Porject partners
