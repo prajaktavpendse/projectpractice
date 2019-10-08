@@ -9,6 +9,9 @@
 >forking of private repositories. Forked repository will always be 
 >monitored and compared unlike the cloned repositories.
 
+![example_fork](https://user-images.githubusercontent.com/54865970/66373051-a8908600-e975-11e9-8c1f-7357b3d3b91b.png)
+
+
 A great example of using forks to propose changes is for bug fixes. Rather than logging an issue for a bug you've found, you can:
 
 - Fork the repository.
