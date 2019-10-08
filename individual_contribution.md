@@ -17,6 +17,8 @@
 
 * Tab Key Use (https://github.com/prajaktavpendse/projectpractice/blob/master/Tab_Key_Use/tab_key.md)
 
+* mkdir (https://github.com/prajaktavpendse/projectpractice/blob/master/Make_Directory/mkdir.md)
+
 
                     *Git Workflow*
          -------------------------------
@@ -42,7 +44,7 @@
 
 **Prajakta**
 
- * cd,pwd,history,using tab key features
+ * cd,pwd,history,using tab key features,mkdir
 
  * Repository,branching,checkout,remote add/show/rename features
 
@@ -58,7 +60,7 @@
 
  **Ruchi**
 
- * mkdir,mv,home directory features
+ * mv,home directory features
 
  * Clone,commit,push,status features
 
