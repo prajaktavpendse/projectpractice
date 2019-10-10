@@ -22,7 +22,7 @@
 
     
 
-* [Changelog](https://github.com/prajaktavpendse/projectpractice/blob/master/log.txt)
+* [Changelog](https://github.com/prajaktavpendse/projectpractice/blob/master/log1.txt)
 
 * [Sources](https://github.com/prajaktavpendse/projectpractice/blob/master/sources.md)
 
