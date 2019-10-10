@@ -40,6 +40,9 @@
 
 * Git and Github (https://github.com/prajaktavpendse/projectpractice/blob/master/Vi/what_is_git.md)
 
+
+**Ruchi**(https://github.com/prajaktavpendse/projectpractice/tree/master/Ruchi)
+
 -------------------------------------------------------------------------------------------------
 
 ** Our distribution as we decided in the beginning:**
@@ -59,6 +62,7 @@
  * Fork,merge,pull,master branch features
 
  * Adding collaborator to github repository feature
+
 
  **Ruchi**
 
