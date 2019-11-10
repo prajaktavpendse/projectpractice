@@ -25,10 +25,10 @@ Setting 'name' attribute to a class:
 >>> class Birds:
 ...     name = "python"
 
->>> # instantiate the class Snake and assign it to variable snake
+>>> instantiate the class Snake and assign it to variable snake
 >>> birds = Birds()
 
->>> # access the class attribute name inside the class Snake.
+>>> access the class attribute name inside the class Snake.
 >>> print(birds.name)
 python
 
@@ -56,7 +56,7 @@ It may or may not return any data.
 A method can operate on the data (instance variables) that is contained by the corresponding class
 Basic Method Structure in Python :
 
-# Basic Python method  
+ Basic Python method  
 class class_name 
     def method_name () : 
         ...... 
@@ -79,7 +79,7 @@ import unittest
   
 class SimpleTest(unittest.TestCase): 
   
-    # Returns True or False.  
+     Returns True or False.  
     def test(self):         
         self.assertTrue(True) 
   
