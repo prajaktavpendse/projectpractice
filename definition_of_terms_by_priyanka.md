@@ -34,7 +34,7 @@ Providing solutions to common software design problems are known as **Design Pat
 - Template Method
 - Visitor
 
-Reference < http://www.blackwasp.co.uk/gofpatterns.aspx >
+Reference <http://www.blackwasp.co.uk/gofpatterns.aspx>
 
 # Objects 
 
@@ -43,14 +43,14 @@ Reference < http://www.blackwasp.co.uk/gofpatterns.aspx >
 Below is a very basic class:
 
      class MyClass:
-    variable = "blah"
+    variable = "apple"
     def function(self):
         print("This is a message inside the class.")
 
 To assign this class to an object we will do,
 
      class MyClass:
-    variable = "blah"
+    variable = "apple"
     def function(self):
         print("This is a message inside the class.")
     myobjectx = MyClass()
@@ -58,7 +58,7 @@ To assign this class to an object we will do,
 To access the object variable :
 
     class MyClass:
-    variable = "blah"
+    variable = "apple"
     def function(self):
         print("This is a message inside the class.")
     myobjectx = MyClass()
@@ -77,26 +77,55 @@ If you feel that your code is gonna produce an error then you can use exception 
 - **IO Error** : If the file cannot be opened.
 
         except IOError:
-        print('An error occurred trying to read the file.')
+        print('An error occurred trying to read the file')
 
 - **Import Error** : When the module is not found by the python.
 
         except ImportError:
-        print "NO module found"
+        print('NO module found')
 
 - **Value Error** : When a function receives an argument which has an inappropriate value but the right type.
 
         except ValueError:
-        print('Non-numeric data found in the file.')
+        print('Non-numeric data found in the file')
 
 - **Keyboard Interupt** : When the interupt key (Control-C or Delete) is hit.
 
         except KeyboardInterrupt:
-        print('You cancelled the operation.')
+        print('You cancelled the operation')
 
 - **EOF Error** : When the built-in function (input() or raw_input()) hits the end-of-file condition without reading the data.
 
         except EOFError:
-        print('Why did you do an EOF on me?')
+        print('Why did you do an EOF?')
 
 Reference <https://www.pythonforbeginners.com/error-handling/exception-handling-in-python>
+
+# Factory
+
+Factory pattern is one of the best ways to create an object and it comes under the creational patterns list category. The method is called by the user in such a way that a string is passed and the return value as a new object is implemented through factory method. When a string is passed through a method it determines the type of object that is used in factory method.
+
+    class Button(object):
+      html = ""
+      def get_html(self):
+        return self.html
+    class Image(Button):
+      html = "<img></img>"
+    class Input(Button):
+      html = "<input></input>"
+    class Flash(Button):
+      html = "<obj></obj>"
+    class ButtonFactory():
+      def create_button(self, typ):
+      targetclass = typ.capitalize()
+      return globals()[targetclass]()
+    button_obj = ButtonFactory()
+    button = ['image', 'input', 'flash']
+    for b in button:
+       print button_obj.create_button(b).get_html()
+
+The *button* is used to create the html tags and associated html page. The logic of the code is not accessed by the client. The output represents the creation of HTML page.
+
+![Factory](https://www.tutorialspoint.com/python_design_patterns/images/factory_pattern.jpg)
+
+ 
