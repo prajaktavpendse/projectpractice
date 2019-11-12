@@ -138,3 +138,23 @@ Classes called *child classes* or *subclasses* inherit methods and variables fro
 
 Since the Child subclass is inheriting from the Parent base class, the Child class can reuse the code of Parent, allowing the programmer to use few lines of code and also decrease redundancy.
 
+Reference <https://www.digitalocean.com/community/tutorials/understanding-class-inheritance-in-python-3>
+
+# Reading Files
+
+You can create .txt file from Python and can also call .txt file in a "read mode"(r).
+
+1 - Open file in *read mode*
+
+     f=open("pia.txt", "r")
+
+2 - The mode function in the code can be used to check whether the file is in open mode. If it shows yes then we can proceed.
+
+     if f.mode == 'r':
+
+3 - Use f.read to read file data and store it in variable content
+
+	contents =f.read()
+
+4 - print contents
+
