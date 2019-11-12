@@ -158,3 +158,5 @@ You can create .txt file from Python and can also call .txt file in a "read mode
 
 4 - print contents
 
+Reference <https://www.guru99.com/reading-and-writing-files-in-python.html#3>
+
