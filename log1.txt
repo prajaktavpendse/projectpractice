@@ -1,3 +1,413 @@
+commit d0ab035d1104e7dbd42259534e18e81a153ffd63
+Merge: d855f1c a7c68cf
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Wed Oct 9 23:14:57 2019 -0400
+
+    Merge branch 'master' of https://github.com/prajaktavpendse/projectpractice
+
+commit d855f1cd3363c76a4b0731f0dcb0e0aeaa346b52
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Wed Oct 9 23:14:32 2019 -0400
+
+    Fix: Updated image folder
+
+commit a7c68cfa3df5295b54ea1b32bd181c17833c7b84
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 21:17:29 2019 -0400
+
+    Fix
+
+commit 6f02cf7e1da213e2b744bff21e079233105985b7
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 19:10:53 2019 -0400
+
+    task added
+
+commit efbedc756eaacf1ec0af1fffb5a1f7303daef2e1
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 19:01:37 2019 -0400
+
+    task added
+
+commit 3deb31ec4371c5f39da19589601b8f53d9e81510
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:58:48 2019 -0400
+
+    task added
+
+commit 7537ca2e77044bf76209cd47639053280877099c
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:57:32 2019 -0400
+
+    task added
+
+commit 903e2ab6b6cd3c239799975633248694a2a963f8
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:52:14 2019 -0400
+
+    task added
+
+commit 6dffd38acd26389940a6e8e11379a06d77269795
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:51:12 2019 -0400
+
+    task added
+
+commit b7d24e979b0a5bc15851abd5d6fe41b856a55dbd
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:46:18 2019 -0400
+
+    task added
+
+commit 72f147302e0e8bd93fed0ee7309a0a97354a81b8
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:45:02 2019 -0400
+
+    task added
+
+commit 92f29d8b0a101552f87d1e1a2f85ce8b0ac52c7d
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:43:45 2019 -0400
+
+    task added
+
+commit dd7488c9c2b15faa5853da417cd370c6e284ccb1
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:41:48 2019 -0400
+
+    task added
+
+commit 9117e480b415aad05c9d4f064ab0f1b7b13657ed
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:39:26 2019 -0400
+
+    task added
+
+commit 9402cd3ab7f35efa7f40588abe84a51fabdf268a
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:36:30 2019 -0400
+
+    task added
+
+commit 8928fdb06981a67ed42a3b69131a8c128e9a3644
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:35:08 2019 -0400
+
+    task added
+
+commit e625afeb46d2dd18f77a83b926d51f8f80437738
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:33:25 2019 -0400
+
+    task added
+
+commit b1b185933f591337788b6672d2cc2a4b102a5cac
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:30:00 2019 -0400
+
+    task added
+
+commit ff2236985d3f9cade673ce4747765d979e576c42
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:28:37 2019 -0400
+
+    task added
+
+commit ce7bff9ca7acc6ca8d727f62b71582ecdf0c02b8
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:27:11 2019 -0400
+
+    task added
+
+commit 819db45c93ad671af96d2a827af64b7d803e51cd
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:22:56 2019 -0400
+
+    task added
+
+commit 8264ba03a26f062d1031926d438bf45f3e415156
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:21:41 2019 -0400
+
+    task added
+
+commit e31ec2756baa2db8e6bf44b63853b1e48e32ee3a
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Wed Oct 9 18:18:29 2019 -0400
+
+    task added
+
+commit f282b84b1dd4c0e73251360b508120756129f965
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Tue Oct 8 18:27:09 2019 -0400
+
+    Task added
+
+commit 08cee7f7c449f6b427cca9e6d8a83b6659e8fbbc
+Author: ruchi rawat <risharawat2422@gmail.com>
+Date:   Tue Oct 8 18:22:09 2019 -0400
+
+    Task added
+
+commit fdf6b0d437f62a589b853656c3302c670afb8d4d
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 11:31:08 2019 -0400
+
+    Task: Added forkingVsCloning file
+
+commit b6a7588bbfd78ac0c4f0b6e335775df24e8eabf9
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 11:08:36 2019 -0400
+
+    Task: Deleted unwanted files
+
+commit 6b05a6575edfd803caa08f2568e05fb7051ead2a
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 11:04:47 2019 -0400
+
+    Task: Deleted test files
+
+commit a5ccbd4ba818cc4d35c7efa50d83ccd9372b06b9
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 11:03:14 2019 -0400
+
+    Task: Removed test file
+
+commit ad58df7d2dadfc9a6c09ea4c7726f9f87fb2aa25
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 11:01:32 2019 -0400
+
+    Task: Added mkdir feature
+
+commit 7424ab987ab0f9893f669b73ce3d52529a2e9e01
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 10:59:39 2019 -0400
+
+    Task: Removed mkdir test file
+
+commit 0a2862f9c8ff3f1d22c20c5bcdc1da749697fe06
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 10:58:48 2019 -0400
+
+    Task : Added mkdir info
+
+commit 168dbd851c43a9fecb2091c48a64d1bf416dcfe4
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 10:56:15 2019 -0400
+
+    Feature: Added mkdir feature
+
+commit a6166f2cc11f8afb886171fc19b25b8137e850c0
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 10:53:39 2019 -0400
+
+    Task: Added contribution
+
+commit ff4af7e2ed5ce0013549e1442a74c0abee4028d8
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 10:40:20 2019 -0400
+
+    Fix: Corrected space
+
+commit 69a8b920308ce18a42ae81aa64f6111e6d5fe967
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 10:37:23 2019 -0400
+
+    Fix
+
+commit 775bac328b75794c23b3477b7b444f8c01510044
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 10:36:20 2019 -0400
+
+    Fix: Syntax error
+
+commit 186d9d9db64b703a697ee79029987dabe77c1114
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 10:35:20 2019 -0400
+
+    Task: Corrected spacing
+
+commit a192381da9dc1a4837d2dfbbf1e0e15b98750e8e
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 10:31:24 2019 -0400
+
+    Task: Added individual contribution
+
+commit b4cbb050f9f3a942f099f4995d807730947535f5
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 10:29:36 2019 -0400
+
+    Task: Added individual contribution
+
+commit 04c8e9da07bdbbc6e498f0fc475055ba797e6d52
+Merge: 7e69d1c b0f7ed9
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 10:25:56 2019 -0400
+
+    Merge branch 'master' of https://github.com/prajaktavpendse/projectpractice
+
+commit 7e69d1c80d34b987ae454b6b5a39578b009425ad
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 10:25:16 2019 -0400
+
+    Task: Deleted unwanted files
+
+commit b0f7ed99a95e5aefbaafa295a13ae721cf767ff5
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 03:22:14 2019 -0400
+
+    Fix : Formatting
+
+commit 1f5d5deabf364cf6c8ab7df7f93ff8bdd1602ed8
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 03:16:08 2019 -0400
+
+    Fix : Formatting
+
+commit 5df4300ba4cb31b982060592e3c969e715acc09e
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 03:03:34 2019 -0400
+
+    Fix : Formatting
+
+commit 40dbd77c399e59bad5a1a91ccf15527245d3b493
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 03:02:34 2019 -0400
+
+    Fix : Formatting
+
+commit 61a7685ddf4ab511ea917cf8968639d56b4216b3
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 02:51:52 2019 -0400
+
+      Fix- formatting
+
+commit c054ef07a76699661ed889c5cfe051b548a271ee
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 02:46:01 2019 -0400
+
+      Fix- formatting
+
+commit d34ef9286ba12efd9c30ef8e5fc06207c63d040a
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 02:42:08 2019 -0400
+
+      Fix- formatting
+
+commit 76bc278aa731595553d10253668ecf3f42627826
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 02:37:44 2019 -0400
+
+    fix: formatting
+
+commit 0c6a5da78a91bdd5bb4b0bfb32b9942160c45b70
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 02:36:39 2019 -0400
+
+    fix: formatting
+
+commit 3a1fa76733cd4c6df1d1c37bcda6d60444621dd0
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 02:23:44 2019 -0400
+
+    Fix : Formatting
+
+commit e9e327c4f089c64738e23187482e8747f6fc5d46
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 02:20:12 2019 -0400
+
+    Fix : Formatting
+
+commit 9434f344501a7f95196ad9edd3acce8a35670406
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 02:17:07 2019 -0400
+
+    Fix : Formatting
+
+commit ed9c8793afd03fbbcc82e75ed7f1468b3da5fece
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 02:06:20 2019 -0400
+
+    fix: formatting
+
+commit 1cd59953923d65ccd31bbda27f37935916ba5287
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 02:04:31 2019 -0400
+
+    Fix- features
+
+commit bb56904b524b7074c47a9c943abd89c90a1aea0f
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 01:54:52 2019 -0400
+
+    fix: formatting
+
+commit 4f90d7729a12bc62a2a139471f9fd0c2ccdaeb09
+Author: Priyanka Dharan <priyankadharan@Priyankas-Air.fios-router.home>
+Date:   Tue Oct 8 01:53:47 2019 -0400
+
+    fix: formatting
+
+commit 503a6421100e04a6bf04f110f4db76e7666f5c00
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 00:28:13 2019 -0400
+
+    Fix
+
+commit 0a4591241b5237e848dc01a0becd6d63813439e4
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 00:26:04 2019 -0400
+
+    Fix: Syntax issue
+
+commit f26dc64770a37a70e634bec533db81187adf8433
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 00:24:08 2019 -0400
+
+    Task: Spelling corrected
+
+commit 6c79b9b5d237cb757d885803a9bf9421b9609149
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 00:22:48 2019 -0400
+
+    Fix: URL
+
+commit 62a4593f492bb0828c82738f44677f4775671dc8
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 00:21:18 2019 -0400
+
+    Fix: Added link to history
+
+commit 9c3d2cf5df3bf582d46c7e62eec6fda42333c64e
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 00:19:28 2019 -0400
+
+    Fix: Corrected spacing
+
+commit bd4215ca44597184ece3239cbe6aeb00e278e64e
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 00:16:38 2019 -0400
+
+    Task: Finalized
+
+commit 3768106acd41541a8da017e7c755eedab9bea637
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 00:10:26 2019 -0400
+
+    Task: Added respective URLs
+
+commit 016316cb08dd939da24a94647ef4db9065c7934e
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Tue Oct 8 00:09:20 2019 -0400
+
+    Task: Added sources
+
+commit 8e3d8c0019a24bcbbb79e0c49b141ba15721cee2
+Author: Prajakta <prajaktavpendse@gmail.com>
+Date:   Mon Oct 7 23:57:31 2019 -0400
+
+    Feature: Added changelog
+
 commit 7cdfed38cff07946a6c28820d2358dcb8383130d
 Author: Prajakta <prajaktavpendse@gmail.com>
 Date:   Mon Oct 7 23:30:57 2019 -0400
