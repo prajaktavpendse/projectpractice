@@ -34,4 +34,6 @@ Providing solutions to common software design problems are known as Design Patte
 - Template Method
 - Visitor
 
-Link text < http://www.blackwasp.co.uk/gofpatterns.aspx >
+Reference < http://www.blackwasp.co.uk/gofpatterns.aspx >
+
+
