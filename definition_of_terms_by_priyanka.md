@@ -128,4 +128,13 @@ The *button* is used to create the html tags and associated html page. The logic
 
 ![Factory](https://www.tutorialspoint.com/python_design_patterns/images/factory_pattern.jpg)
 
- 
+Reference <https://www.tutorialspoint.com/python_design_patterns/python_design_patterns_factory.htm>
+
+# Extend class
+
+The class can be extended with the help of **Inheritance**. When a class uses code constructed within another class it is known as inheritance. In terms of biology, a child inherits certain traits from their parent.
+
+Classes called *child classes* or *subclasses* inherit methods and variables from *parent classes* or *base classes*.
+
+Since the Child subclass is inheriting from the Parent base class, the Child class can reuse the code of Parent, allowing the programmer to use few lines of code and also decrease redundancy.
+
