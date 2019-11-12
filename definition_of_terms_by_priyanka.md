@@ -36,4 +36,32 @@ Providing solutions to common software design problems are known as Design Patte
 
 Reference < http://www.blackwasp.co.uk/gofpatterns.aspx >
 
+# Objects 
 
+**Objects** are single entity that encapsulate variables and functions. These variables and functions are obtained by objects through class.
+
+Below is a very basic class:
+
+     class MyClass:
+    variable = "blah"
+    def function(self):
+        print("This is a message inside the class.")
+
+To assign this class to an object we will do,
+
+     class MyClass:
+    variable = "blah"
+    def function(self):
+        print("This is a message inside the class.")
+    myobjectx = MyClass()
+
+To access the object variable :
+
+    class MyClass:
+    variable = "blah"
+    def function(self):
+        print("This is a message inside the class.")
+    myobjectx = MyClass()
+    myobjectx.variable
+
+Reference <https://www.learnpython.org/en/Classes_and_Objects>
